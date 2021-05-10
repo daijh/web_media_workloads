@@ -7,6 +7,8 @@ Simple video player sample using webcodecs and mediacapture-transform (Breakout 
 - Support multiple decoder instances
 - Support on/off rendering
 
+***Enable chrome://flags/#enable-experimental-web-platform-features***
+
 ## Links
 - https://github.com/w3c/webcodecs
 - https://github.com/w3c/mediacapture-transform
