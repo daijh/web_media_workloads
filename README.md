@@ -4,6 +4,7 @@
 Simple video player sample using webcodecs and mediacapture-transform (Breakout Box) APIs.
 - Support ivf container
 - Support vp8, vp9, av1 codecs
+- Support frame rate
 - Support multiple decoder instances
 - Support on/off rendering
 
